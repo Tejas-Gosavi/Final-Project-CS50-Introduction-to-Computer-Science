@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+
+{% block body %}
+        <div id="form">
+            <form action="/predict" method="POST">
+                <input id="textbox" autocomplete="off" autofocus name="news" placeholder="News Headline/Description" type="text"><br>
+                <button class="button button1" type="submit" value="Predict" name="predict">Classify</button>
+            </form>
+            <footer id="footer">
+                <p>Made with <span style="color: red;">&#10084;</span> by
+                    <b>
+                        <span>
+                            <a href="https://www.linkedin.com/in/tejas-gosavi-74b44b178/" taget="_blank">Tejas Gosavi</a>
+                        </span>
+                    </b>
+                </p>
+                <p style="font-size: 20px;">Project code at
+                    <a href="https://github.com/Tejas-Gosavi" class="fa">&#xf09b;</a>
+                </p>
+            </footer>
+        </div>
+{% endblock %}
