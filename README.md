@@ -12,7 +12,7 @@ Dataset used for this project is bbc news headlines dataset which i downloaded f
 Algorithm used to predict category is **Multinomial Naive Bayes**, which is
 very much famous/used for text classification. It is based on **Bayes Theorem**.
 
-**🌟Project video - https://youtu.be/2BAPLb8DwJ0**
+**🌟✌️Project video - https://youtu.be/2BAPLb8DwJ0**
 
 ### Prerequisites
 You must have any of thses Tool installed
