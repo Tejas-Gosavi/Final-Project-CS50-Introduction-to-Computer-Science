@@ -40,3 +40,4 @@ By default, flask will run on port 5000.
 
 3. and... Voila our web app is started and now enter news title or descritption to classify in its category.
 
+**Project video - https://youtu.be/2BAPLb8DwJ0**
