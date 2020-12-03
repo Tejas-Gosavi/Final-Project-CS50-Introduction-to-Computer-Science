@@ -20,7 +20,7 @@ You must have any of thses Tool installed
 ### Project Structure
 1. model.ipynb - This contains code of our Machine Learning model to predict news category based on training data in ***bbc-text.csv*** file. It saves model algorithm and vectorizer in .pkl file.
 
-2. app.py - This contains Flask API that take News title/description through GUI call, classifies in the predicted category based on
+2. app.py / application.py - This contains Flask API that take News title/description through GUI call, classifies in the predicted category based on
 model algorithm.
 
 3. templates - This folder contains dynamic web templates.
